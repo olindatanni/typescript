@@ -1,4 +1,6 @@
 # Aula de Typescript da Take na plataforma DIO
+
+ Eu, como aluno do Bootcamp Santander Full Stack da Digital Inovation One, estou usando da alternativa de clonar repositório do instrutor para treinar a utilização dos recursos de versionamento de códigos através dos recursos do GIT e GITHUB na IDE Visual Stuoio Code.
   
 *Bem vindo!!*
 
